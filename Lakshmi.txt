@@ -1,7 +1,2 @@
 # LKTest
-dsf
-dasfdsafadsfsda
-ldsfdsaf
-dsafj
-
-
+# Cleaneup a liitle bit
